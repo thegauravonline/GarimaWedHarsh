@@ -9253,8 +9253,8 @@ img {
 /* Floating WhatsApp Button */
 .whatsapp-float-wrap {
     position: fixed;
-    bottom: 80px;
-    right: 20px;
+    bottom: 30px;
+    left: 10px;
     z-index: 9999;
 }
 
@@ -9265,7 +9265,7 @@ img {
     background-color: #25D366;
     color: #fff;
     text-decoration: none;
-    padding: 12px 18px;
+    padding: 10px 16px;
     border-radius: 50px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
     font-family: inherit;
@@ -9276,7 +9276,7 @@ img {
 }
 
 .whatsapp-float-btn i {
-    font-size: 20px;
+    font-size: 15px;
     line-height: 1;
 }
 
