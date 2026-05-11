@@ -9245,7 +9245,6 @@ img {
 .error-404-section .error-message p {
   margin-bottom: 1.8em;
 }
-
 /*--------------------------------------------------------------
 20. Floating WhatsApp Button
 --------------------------------------------------------------*/
@@ -9253,8 +9252,8 @@ img {
 /* Floating WhatsApp Button */
 .whatsapp-float-wrap {
     position: fixed;
-    bottom: 30px;
-    left: 10px;
+    bottom: 80px;
+    right: 20px;
     z-index: 9999;
 }
 
@@ -9262,10 +9261,10 @@ img {
     display: flex;
     align-items: center;
     gap: 8px;
-    background-color: $theme-color;
+    background: $theme-color;
     color: #fff;
     text-decoration: none;
-    padding: 10px 16px;
+    padding: 12px 18px;
     border-radius: 50px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
     font-family: inherit;
@@ -9276,7 +9275,7 @@ img {
 }
 
 .whatsapp-float-btn i {
-    font-size: 15px;
+    font-size: 20px;
     line-height: 1;
 }
 
